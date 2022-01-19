@@ -5,7 +5,7 @@
 欠勤処理、手当ての編集を管理し、月末締め及び給与明細の発行を行う。
 
 ### サイトテーマ
-<...>
+社員管理の自動化
 
 ### テーマを選んだ理由
 勤め先においてシフト管理を手入力で行なっていたため、自動化することで簡易化及び、ミスを減らす事ができると考えた。
@@ -14,13 +14,14 @@
 一つのエリア内に複数の店舗を持ち、店舗間での派遣を多用する会社。
 
 ### 主な利用シーン
-
+社員の欠勤の申請及びに、管理者のシフト管理。
+手当ての編集、欠勤処理の入力から月末締めの自動化。
 
 ## 設計書
 <...>
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1KWad-fXT35xr5XZMvzX5RjylsFQwCA9QWt8oMgExLSw/edit#gid=0
 
 ## 開発環境
 - OS：Linux(CentOS)
