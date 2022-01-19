@@ -18,7 +18,6 @@
 手当ての編集、欠勤処理の入力から月末締めの自動化。
 
 ## 設計書
-<...>
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1KWad-fXT35xr5XZMvzX5RjylsFQwCA9QWt8oMgExLSw/edit#gid=0
